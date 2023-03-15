@@ -1,2 +1,1 @@
-# scraping2-tutor
-scraping biasa
+#these config as tutorial  /media/surename/pocket/gooodiesss/scraping/ Modern Web Scraping with Python using Scrapy Splash
